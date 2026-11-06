@@ -1,0 +1,6 @@
+{
+  "name": "A Little World of You",
+  "description": "A whimsical vintage scrapbook, illustrated journal, musical diary, and archive of heartfelt observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
